@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DiscusionResultadosHM190181</string>
+    <string name="txtFirstNumber">Ingrese el primer número: </string>
+    <string name="txtSecondNumber">Ingrese el segundo número: </string>
+    <string name="btnSumar">Sumar</string>
+    <string name="txtResultado">Resultado: </string>
+</resources>
